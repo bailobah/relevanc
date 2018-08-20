@@ -11,7 +11,7 @@ from database.models import TbTrace
 
 log = Logger.log
 
-ns = api.namespace('trace/stats', description='Logs dataset description')
+ns = api.namespace('trace/kpis', description='kpis des datasets')
 
 @ns.route('/')
 @api.doc(responses={

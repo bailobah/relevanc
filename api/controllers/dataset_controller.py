@@ -23,7 +23,7 @@ ALLOWED_EXTENSIONS = set(['.txt', '.csv'])
 LENGHT_COLOMN = 4
 FORMAT = "%Y-%m-%dT%H:%M:%S"
 
-ns = api.namespace('dataset/upload', description='Operations related to upload dataset or restution')
+ns = api.namespace('dataset/upload', description='Operations related to upload / delete / get')
 
 def is_extension_allowed(filename, allowed_extensions_with_dot):
 	[fname, ext] = os.path.splitext(filename)
