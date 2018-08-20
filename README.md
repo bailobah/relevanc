@@ -18,10 +18,10 @@ http://localhost:4000/api/
 
 ### Documentation
 
+(http://docs.sqlalchemy.org/en/latest/orm/query.html)
 
-	<http://docs.sqlalchemy.org/en/latest/orm/query.html>
-   [Flask]: <http://flask.pocoo.org/docs/1.0/>
-   [Flask tuto]: <http://sdz.tdct.org/sdz/creez-vos-applications-web-avec-flask.html>
+(http://flask.pocoo.org/docs/1.0/)
+(http://sdz.tdct.org/sdz/creez-vos-applications-web-avec-flask.html)
 
 
    
